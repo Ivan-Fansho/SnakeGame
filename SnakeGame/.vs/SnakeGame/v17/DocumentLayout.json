@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_learning\\SnakeGame\\SnakeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36F4A5BE-7C28-436D-9281-DD24DC2429A7}|SnakeGame.csproj|d:\\c#_learning\\snakegame\\snakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F4A5BE-7C28-436D-9281-DD24DC2429A7}|SnakeGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F4A5BE-7C28-436D-9281-DD24DC2429A7}|SnakeGame.csproj|d:\\c#_learning\\snakegame\\snakegame\\coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F4A5BE-7C28-436D-9281-DD24DC2429A7}|SnakeGame.csproj|solutionrelative:coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 104,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 42,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coord.cs",
+              "DocumentMoniker": "D:\\C#_learning\\SnakeGame\\SnakeGame\\Coord.cs",
+              "RelativeDocumentMoniker": "Coord.cs",
+              "ToolTip": "D:\\C#_learning\\SnakeGame\\SnakeGame\\Coord.cs",
+              "RelativeToolTip": "Coord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:23:09.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#_learning\\SnakeGame\\SnakeGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#_learning\\SnakeGame\\SnakeGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T11:22:24.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
