@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{36F4A5BE-7C28-436D-9281-DD24DC2429A7}|SnakeGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{36F4A5BE-7C28-436D-9281-DD24DC2429A7}|SnakeGame.csproj|d:\\c#_learning\\snakegame\\snakegame\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F4A5BE-7C28-436D-9281-DD24DC2429A7}|SnakeGame.csproj|solutionrelative:direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{36F4A5BE-7C28-436D-9281-DD24DC2429A7}|SnakeGame.csproj|d:\\c#_learning\\snakegame\\snakegame\\coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{36F4A5BE-7C28-436D-9281-DD24DC2429A7}|SnakeGame.csproj|solutionrelative:coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,17 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 42,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "D:\\C#_learning\\SnakeGame\\SnakeGame\\Direction.cs",
+              "RelativeDocumentMoniker": "Direction.cs",
+              "ToolTip": "D:\\C#_learning\\SnakeGame\\SnakeGame\\Direction.cs",
+              "RelativeToolTip": "Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:52:59.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Coord.cs",
               "DocumentMoniker": "D:\\C#_learning\\SnakeGame\\SnakeGame\\Coord.cs",
               "RelativeDocumentMoniker": "Coord.cs",
               "ToolTip": "D:\\C#_learning\\SnakeGame\\SnakeGame\\Coord.cs",
               "RelativeToolTip": "Coord.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T11:23:09.507Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\C#_learning\\SnakeGame\\SnakeGame\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-15T11:22:24.429Z",
               "EditorCaption": ""
