@@ -41,4 +41,6 @@ This is a simple console-based Snake game implemented in C#. The objective is to
 3. Build and run the game using your preferred IDE or command line:
     ```sh
    dotnet run
+
    ```
+    ![Screenshot_20240816_013342](https://github.com/user-attachments/assets/21707abd-7456-46f6-be73-52cfbfcb982b)
